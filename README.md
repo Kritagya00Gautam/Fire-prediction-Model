@@ -1,3 +1,7 @@
+Remember that it is not entirely based on what we thimnk it is, here we will start to notify teh individual whrn the probability goes from 55> this time we will give him a alert and this alerat will be a mediocre alert then we will decide on the next probability , if the next probability is more than the first simply we will get to knw that the fire estimation is on the rise , because it is a model we need to wait for 1-2 seconds otherwise it will be just a mess for us. Now we will go on the other thing when the probalbility scale goes in the rampage we will warn the individual to take the necessary precautions to this.
+
+By this measure an indivisual will bw unbiquious...
+
 An advanced Machine Learning repository dedicated to predicting fire outbreaks and wildfire risks. By analyzing environmental variables, weather patterns, and historical data, this model provides actionable insights to mitigate hazards and optimize emergency response.
 
 ---
