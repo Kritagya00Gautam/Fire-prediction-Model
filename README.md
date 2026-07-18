@@ -22,7 +22,7 @@ The model utilizes environmental attributes typically sourced from meteorologica
 | `Ws` | Wind Speed | km/h |
 | `Rain` | Total daily rainfall | mm |
 | `FFMC / DMC / DC` | Fine Fuel Moisture Code / Duff Moisture Code / Drought Code | Index |
-| `Classes` | Target variable indicating the presence or absence of fire | Binary (0 / 1) |
+| `Classes` | Target variable indicating the presence or absence of fire | boolean values cause it will automatically change it|
 
 ---
 
